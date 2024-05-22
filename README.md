@@ -7,6 +7,9 @@ This is a MERN application designed specifically for workout purposes. MERN comb
 If you'd like to explore the backend, you're welcome to visit the following URL
 - https://github.com/ReynardChristiansen/api_workout
 
+If you'd like to explore the frontend, you're welcome to visit the following URL
+- https://frontend-workout.vercel.app/
+
 
 
 
